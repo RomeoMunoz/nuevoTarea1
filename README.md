@@ -1,4 +1,12 @@
 ndTareaGit
 ==========
 
-Tarea #1 GitHub
+ Tarea #1 GitHub
+ ---------------
+|               |
+|               |
+| Romeo Muñoz   |
+|               |
+|               |
+|               |
+ ---------------
